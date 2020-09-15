@@ -1,3 +1,7 @@
+Deployed at:[https://netflix-clone-ab9a9.firebaseapp.com/]
+
+Powered by TMDB API.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
